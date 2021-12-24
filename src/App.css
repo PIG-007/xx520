@@ -1,0 +1,9 @@
+#startControl{
+  list-style-type: none;
+  text-align: center;
+}
+
+a{
+  text-decoration: none;
+  outline: thick double #32a1ce;
+}
